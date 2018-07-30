@@ -1,0 +1,25 @@
+{
+    "come":"咸鱼",
+    "show":[
+        {
+            "type":"image",
+            "value":"url"
+        },
+        {
+            "type":"content",
+            "value":"......"
+        },
+        {
+            "type":"link",
+            "value":"32432424"
+        },
+        {
+            "type":"button",
+            "category":"1", //重新验货
+        },
+        {
+            "type":"button",
+            "category":"2", //取消 
+        }
+    ]
+}
